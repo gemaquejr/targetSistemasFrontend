@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Desafios Target Sistemas</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Técnica</h1>
+
+      <div class="challenge">
+        <h2>1. Valor da variável SOMA</h2>
+        <button onclick="calcularSoma()">Calcular SOMA</button>
+        <p id="somaResultado"></p>
+      </div>
+
+      <div class="challenge">
+        <h2>2. Fibonacci</h2>
+        <input
+          type="number"
+          id="numeroFibonacci"
+          placeholder="Informe um número"
+        />
+        <button onclick="verificarFibonacci()">Verificar Fibonacci</button>
+        <p id="fibonacciResultado"></p>
+      </div>
+
+      <div class="challenge">
+        <h2>3. Faturamento Diário</h2>
+        <button onclick="analisarFaturamento()">Analisar Faturamento</button>
+        <p id="faturamentoResultado"></p>
+      </div>
+
+      <div class="challenge">
+        <h2>4. Percentual de Faturamento por Estado</h2>
+        <button onclick="calcularPercentual()">Calcular Percentual</button>
+        <p id="percentualResultado"></p>
+      </div>
+
+      <div class="challenge">
+        <h2>5. Inverter String</h2>
+        <input type="text" id="inputString" placeholder="Informe uma palavra" />
+        <button onclick="inverterString()">Inverter String</button>
+        <p id="stringResultado"></p>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
