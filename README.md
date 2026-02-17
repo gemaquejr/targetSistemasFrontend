@@ -16,6 +16,14 @@ Praticar e demonstrar conhecimentos em:
 
 * Interação via interface web
 
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5
+
+- CSS3
+
+- JavaScript
+
 ## 🚀 Desafios Resolvidos
 
 ### 1️⃣ Valor da variável SOMA:
