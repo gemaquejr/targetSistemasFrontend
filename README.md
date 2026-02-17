@@ -1,23 +1,69 @@
-# Desafio Frontend
+# 💻 Desafio Frontend
 
-## Este repositório contém a solução para uma série de desafios de programação em JavaScript, HTML e CSS.
+Este repositório contém a solução para uma série de desafios de programação utilizando JavaScript, HTML e CSS, com foco em lógica, manipulação de dados e interação com o usuário.
 
-### Desafio 1: Valor da variável SOMA:
+## 🧠 Objetivo
 
-#### O desafio é resolver um problema simples de soma utilizando um loop while e exibir o resultado de maneira interativa.
+Praticar e demonstrar conhecimentos em:
 
-### Desafio 2: Sequência de Fibonacci:
+* Lógica de programação
 
-#### O desafio consiste em calcular a sequência de Fibonacci, o usuário informa um número e ao apertar o botão, verifica-se o número se ele está ou não presente na sequência.
+* Estruturas de repetição
 
-### Desafio 3: Faturamento Diário:
+* Manipulação de arrays e strings
 
-#### O código recebe os valores de faturamento, ignora os dias sem faturamento e calcula os resultados solicitados.
+* Cálculos matemáticos
 
-### Desafio 4: Percentual de Representação de Estados:
+* Interação via interface web
 
-#### A distribuição do faturamento por estado é fornecida e o programa calcula a porcentagem que cada estado representa dentro do total mensal.
+## 🚀 Desafios Resolvidos
 
-### Desafio 5: Inversão de String:
+### 1️⃣ Valor da variável SOMA:
 
-#### A função recebe uma string e inverte os seus caracteres, exibindo a string resultante.
+#### Problema de soma acumulativa utilizando um loop while, onde o sistema executa a iteração e exibe o resultado final de forma interativa na interface.
+
+### 2️⃣ Sequência de Fibonacci:
+
+#### O usuário informa um número e, ao acionar o botão, o sistema:
+
+* Calcula a sequência de Fibonacci
+
+* Verifica se o número informado pertence à sequência
+
+* Exibe o resultado na tela
+
+### 3️⃣ Faturamento Diário:
+
+#### O programa:
+
+* Recebe valores de faturamento diário
+
+* Ignora dias sem faturamento (valor zero)
+
+#### Calcula:
+
+* Menor faturamento
+
+* Maior faturamento
+
+* Média mensal (considerando apenas dias válidos)
+
+### 4️⃣ Percentual de Representação por Estado:
+
+#### Com base no faturamento mensal por estado, o sistema calcula:
+
+* O total geral
+
+* O percentual de participação de cada estado
+
+* Exibindo os resultados de forma clara ao usuário.
+
+### 5️⃣ Inversão de String:
+
+#### Função que:
+
+* Recebe uma string informada pelo usuário
+
+* Inverte manualmente os caracteres (sem usar .reverse())
+
+* Retorna a string invertida
